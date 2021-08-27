@@ -7,7 +7,6 @@ def main():
     else:
         
         i= peso/(altura**2)
-
         if(i >= 0 and i <20):
             print("PESO BAJO")
         elif(i >= 20 and i < 25):

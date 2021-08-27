@@ -9,6 +9,5 @@ def main():
     else:
         print("Es cero")
     
-
 if __name__ == '__main__':
     main()
