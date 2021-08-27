@@ -17,6 +17,7 @@ def main():
             print("OBESIDAD")
         elif(i >= 40):
             print("OBESIDAD MORBIDA")
+            
 
 if __name__ == '__main__':
     main()

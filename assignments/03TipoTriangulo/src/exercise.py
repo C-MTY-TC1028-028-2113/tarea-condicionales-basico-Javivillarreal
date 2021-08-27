@@ -12,6 +12,7 @@ def main():
             print("ES UN TRIANGULO ESCALENO")
     else:
         print("NO ES TRIANGULO")
+
         
 if __name__=='__main__':
     main()

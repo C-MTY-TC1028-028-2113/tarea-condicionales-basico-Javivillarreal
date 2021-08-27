@@ -8,6 +8,6 @@ def main():
         print("Es negativo")
     else:
         print("Es cero")
-    
+        
 if __name__ == '__main__':
     main()
